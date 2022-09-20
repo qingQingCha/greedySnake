@@ -12,9 +12,9 @@ import './style/index.less';
 // food.change();
 // console.log(food.X, food.Y);
 
-// import GameControl from "./modules/GameControl";
+import GameControl from "./modules/GameControl";
 
-// const gameControl = new GameControl();
+const gameControl = new GameControl();
 
 // setInterval(()=>{
 //     console.log(gameControl.direction);
